@@ -8,16 +8,14 @@
 ## My tech stack
 
 - **Backend** – Java, Spring Boot, PostgreSQL
-- **Frontend** – Node.js, React, TypeScript
-- **Tools** – Git, Docker, IntelliJ IDEA
+- **Frontend** – Node.js, React, React Native, TypeScript
+- **Tools** – Git, Docker, Netlify, Kubernetes
 
 ## Currently building
+- **EatHere** - an interactive restaurant table booking Mobile app.
+- **Flexwhere Dashboard** – an user-friendly interface for tracking office usage.
+
+## Previous projects
+- **Calendarion** – employee availability tracking tool
 - **Chat Server & Client Application** – Real-time chat over TCP/IP: encrypted private messaging, file transfer, multi-client support.
 - **SexyLang** – An esoteric programming language with variables, arrays, functions, branching, and loops
-
-## Currently learning about
-- Concurrency in Java
-- Microservices
-- Event-driven architecture
-- Domain Driven Design
-- Software design patterns
